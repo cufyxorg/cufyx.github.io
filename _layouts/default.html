@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!--suppress HtmlUnknownTarget -->
 <html lang="{{ site.lang | default: en-US }}">
 
 <head>
@@ -42,6 +43,10 @@
             font-weight: bolder;
             color: black;
         }
+
+        #main_content_wrap {
+            min-height: 70vh;
+        }
     </style>
 
     <!-- default head -->
@@ -63,6 +68,11 @@
 
         <!-- links -->
         <div class="lollipop" id="links">
+            <!-- navigation -->
+            {% for navigation in layout.navigations %}
+            <a class="candy" href="{{ navigation[1] }}">{{ navigation[0] }}</a>
+            {% endfor %}
+            <!-- external -->
             {% for link in page.links %}
             <a class="candy" href="{{ link[1] }}">{{ link[0] }}</a>
             {% endfor %}
@@ -95,6 +105,7 @@
 </div>
 
 {% if site.google_analytics %}
+<!--suppress CommaExpressionJS, JSValidateTypes, SpellCheckingInspection, JSUnresolvedFunction -->
 <script>
     (function (i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
