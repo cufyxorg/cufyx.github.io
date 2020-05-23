@@ -5,7 +5,7 @@ href: https://android.cufy.org/settingview
 links:
     GitHub: https://github.com/cufyx/settingview
     Javadoc: https://android.cufy.org/settingview/javadoc
-    Jitpack: https://jitpack.io/#org.cufy.android/settingview
+    Jitpack: https://jitpack.io/#com.github.cufyx/settingview
     YouTube: https://youtube.com/playlist?list=PL4GvMdlkZJ6YIKZ2aW0rH9FazuxlRcqs6
 ---
 
