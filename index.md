@@ -4,6 +4,7 @@
 
 layout: default
 links:
+  Cufy: https://cufy.org
   GitHub: https://github.com/cufyx
   YouTube: https://youtube.com/channel/UCQrEzyMcfnvfNG6irFRBePg
   Discord: https://discord.gg/ASAGGy7
