@@ -1,6 +1,6 @@
 ---
-index: 2
-title: Android SettingView
+index: 1
+title: SettingView
 href: https://android.cufy.org/settingview
 links:
     GitHub: https://github.com/cufyx/settingview
