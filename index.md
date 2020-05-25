@@ -6,6 +6,7 @@ layout: default
 links:
   Cufy: https://cufy.org
   GitHub: https://github.com/cufyx
+  Patreon: https://patreon.com/cufy
   YouTube: https://youtube.com/channel/UCQrEzyMcfnvfNG6irFRBePg
   Discord: https://discord.gg/ASAGGy7
   Gitter: https://gitter.im/cufyorg/community
