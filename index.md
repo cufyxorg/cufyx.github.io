@@ -14,7 +14,6 @@ links:
   Instagram: https://instagram.com/cufyorg
   Twitter: https://twitter.com/cufyorg
   Snapchat: https://snapchat.com/add/cufyorg
-
 ---
 
 {{ site.description }}
